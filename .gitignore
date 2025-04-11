@@ -1,0 +1,9 @@
+# .gitignore (at the root of your project)
+
+# Ignore client's node_modules
+client/node_modules
+
+# Ignore server's node_modules
+server/node_modules
+
+server/.env
